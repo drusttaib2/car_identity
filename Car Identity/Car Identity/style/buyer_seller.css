@@ -1,0 +1,20 @@
+﻿body {
+    font-family: Rabar_021;
+    color: white;
+    background-image: radial-gradient(#1f1e22,#170a5c);
+}
+
+.text{
+    color:white;
+}
+.button {
+    font-family: Rabar_021;
+    
+}
+div{
+    text-align:left;
+    
+}
+.main{
+    margin-left:550px;
+}

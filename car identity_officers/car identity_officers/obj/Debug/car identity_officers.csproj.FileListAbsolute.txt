@@ -1,0 +1,20 @@
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\car identity_officers.exe.config
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\car identity_officers.exe
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\car identity_officers.pdb
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\MySql.Data.dll
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\Google.Protobuf.dll
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\bin\Debug\MySql.Data.xml
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.csprojAssemblyReference.cache
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Form1.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Form2.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Properties.Resources.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.csproj.GenerateResource.cache
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.csproj.CoreCompileInputs.cache
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.csproj.CopyComplete
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.exe
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car identity_officers.pdb
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Form3.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Form4.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.image.resources
+C:\Users\drust\source\repos\car identity_officers\car identity_officers\obj\Debug\car_identity_officers.Form5.resources

@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main_master.master.cs" Inherits="Car_Identity.pages.main_master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="../style/master_page.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     
+    <form id="form1" runat="server">
+        <div id="top">
+
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" OnMenuItemClick="Menu1_MenuItemClick">
+            <Items>
+                <asp:MenuItem Text="سەرەکی" Value="1"></asp:MenuItem>
+                <asp:MenuItem Text="هەنگاوەکان" Value="2"></asp:MenuItem>
+                <asp:MenuItem Text="داواکاری کڕین" Value="3"></asp:MenuItem>
+                <asp:MenuItem Text="داواکاری فرۆشتن" Value="4"></asp:MenuItem>
+                <asp:MenuItem Text="زانیاری" Value="5"></asp:MenuItem>
+            </Items>
+            <StaticMenuItemStyle Height="30px" HorizontalPadding="20px" />
+            <StaticMenuStyle CssClass="menu" />
+        </asp:Menu>
+            </div>
+        <br class="clear"/>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
